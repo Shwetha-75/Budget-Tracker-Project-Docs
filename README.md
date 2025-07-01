@@ -19,6 +19,8 @@
     </li>
     <li>Project source code</li>
     <li>Tech Stack</li>
+    <li>Guidelines</li>
+    <li>Conclusion</li>
   </ol>
 </div>
 
@@ -77,7 +79,7 @@
   |View  | <a href="https://github.com/Shwetha-75/Budget-Tracker-View.git" target="_blank">View</a>
   |Auth Services | <a href="https://github.com/Shwetha-75/registration-services-budget-tracker.git" target="_blank">Register</a> |
   |     | <a href="https://github.com/Shwetha-75/budget-tracker-login-services.git" target="_blank">Login</a>|
-  |     | <a href="https://github.com/Shwetha-75/budget-tracker-login-services.git" target="_blank">OAuth Google SignIn</a> |
+  |     | <a href="https://github.com/Shwetha-75/Google-SignIn.git" target="_blank">OAuth Google SignIn</a> |
   |Budget Services | <a href="https://github.com/Shwetha-75/budget-tracker-budget-services.git" target="_blank">Budget Services</a> |
 
   ---
@@ -94,7 +96,56 @@
   |Databse |Firebase |
   |Testing | .rest, pytest, postman |
   |Deloyement | render, vercel|
+
+  ---
+
+  <div>
+    <h3>6. Guidelines to deploy on local </h3>
+  </div>
+   <p>Clone the repositories</p>
+   
+   ~~~
+    git clone https://github.com/Shwetha-75/Budget-Tracker-View.git
+   ~~~
+   ~~~
+    git clone https://github.com/Shwetha-75/registration-services-budget-tracker.git
+   ~~~
+   ~~~
+    git clone https://github.com/Shwetha-75/budget-tracker-login-services.git
+   ~~~
+   ~~~
+    git clone https://github.com/Shwetha-75/Google-SignIn.git
+   ~~~
+   ~~~
+    git clone https://github.com/Shwetha-75/budget-tracker-budget-services.git
+   ~~~
+
+   <p>For view install lastest version & integrate it with vite (Optional : you can use any flavours of js and frameworks)</p>
+
+   ~~~
+     npm create vite@latest
+   ~~~
+   <p>Install node modules</p>
+
+   ~~~
+    npm i
+   ~~~
+   <p>For Backend services install the requirements.txt file, firstly set up the virtual env & activate it</p>
+
+   ~~~
+     pip install -r file_path(requirements.txt )
+   ~~~
+
+  ---
   
+  <h3>Conclusion</h3>
+  <div>
+    <ul>
+      <li>Contributors : Shwetha K (Design, Develeopment, Deployment)</li>
+      <li>**Note : No fixed timeline, the project is under development.</li>
+    </ul>
+  </div>
+  <p>"Woohoo!" 🎉 you have completed the installation, now you can work on the project to implement your own ideas</p>
  </div>
   </foreignObject>
 </svg>
