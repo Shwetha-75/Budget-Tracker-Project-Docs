@@ -69,11 +69,11 @@
    | Mail Services | Sends the update via mails |
    | Report Services | Generates the report on monthly weekly, yearly basis |
 
- <div>
+  <div>
       <h4>🧱 Sequence Diagram</h4>
     </div>
     <div>
-      <img src="https://github.com/Shwetha-75/image/blob/main/SequenceDiagramBudgetTracker.jpg?raw=true" alt="Image" border="none"/>
+      <img src="https://github.com/Shwetha-75/image/blob/main/SequenceDiagramBudgetTracker.png?raw=true" alt="Image" border="none"/>
     </div>
     
   ---
